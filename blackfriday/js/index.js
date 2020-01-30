@@ -1,1 +1,1 @@
-"use strict";var $app=$("body"),$$App=App();$$App.init($app,{});
+"use strict";var $app=$("body"),$$App=App();$$App.init($app,{});try{console.log(window.lol.kek)}catch(p){console.log(p)}
